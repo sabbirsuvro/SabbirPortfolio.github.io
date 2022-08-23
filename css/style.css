@@ -1,0 +1,127 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    
+}
+.banner-container{
+    background-color:rgb(144, 173, 178);
+    margin: 15px;
+}
+.banner-column{
+    background-color: rgb(154, 180, 180);
+    padding: 3px;
+    margin: 15px;
+}
+.navbar-container{
+    background-color: #0b0c03;
+    position: -webkit-sticky;
+    z-index: 2;
+    margin: 15px;
+}
+.navbar-container:hover{
+    background-color: rgb(88, 108, 85);
+
+}
+.about-container{
+    background-color: rgb(144, 173, 178);
+    padding: 10px;
+    margin: 15px;
+}
+.education-container{
+    background-color:rgb(144, 173, 178);
+    margin: 15px;
+    padding: 10px;
+}
+
+.project-container{
+    background-color:rgb(144, 173, 178);
+    margin: 15px;
+    padding: 10px;
+}
+
+.research-container{
+    background-color:rgb(144, 173, 178);
+    margin: 15px;
+    padding: 10px;
+}
+
+.portfolio-container{
+    background-color: rgb(144, 173, 178);
+    margin: 15px;
+    padding: 10px;
+}
+
+.gallery-container{
+    background-color:rgb(144, 173, 178);
+    margin: 15px;
+    padding: 10px;
+}
+
+.contact-container{
+    background-color:rgb(144, 173, 178);
+    margin: 15px;
+    padding: 10px;
+}
+
+.footer-column{
+    background-color: rgb(187, 205, 212);
+    padding: 3px;
+    margin: 15px;
+    
+}
+
+
+.img{
+    padding-top: 150px;
+    padding-bottom: 2px;
+    display: inline-block;
+    margin-right: 10px;
+    margin-left: 2px;
+}
+
+.redtype{
+    color: #FE8E7F;
+}
+.bg-redtype{
+    background-color: #FE8E7F;
+}
+
+.bluetype{
+    color: #050222;
+}
+
+.bluetype:hover{
+    color: red;
+}
+
+.circle{
+    background-color: #8f6b66;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    border: 2px;
+    border-color: aqua;
+    color:white;
+}
+
+.circle:hover{
+    background-color: rgb(73, 39, 39);
+}
+
+
+.circle-project{
+    background-color: #8f6b66;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    border: 2px;
+    border-color: aqua;
+    color:white;
+}
+
+.circle-project:hover{
+    background-color: rgb(73, 39, 39);
+}
+
+.whitetype{
+    background-color:#898989;
+}
